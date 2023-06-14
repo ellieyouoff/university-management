@@ -1,0 +1,29 @@
+Name                     Stmts   Miss  Cover
+--------------------------------------------
+main.py                      6      0   100%
+modules/__init__.py          0      0   100%
+modules/add_object.py       57     15    74%
+modules/course.py           32      8    75%
+modules/data_loader.py      79     32    59%
+modules/data_saver.py       49      0   100%
+modules/display.py          37     17    54%
+modules/interface.py       118     28    76%
+modules/person.py           38      4    89%
+modules/utils.py            28      9    68%
+--------------------------------------------
+TOTAL                      444    113    75%
+
+Name                     Stmts   Miss  Cover
+--------------------------------------------
+main.py                      6      0   100%
+modules/__init__.py          0      0   100%
+modules/add_object.py       57     29    49%
+modules/course.py           32      8    75%
+modules/data_loader.py      79     32    59%
+modules/data_saver.py       49      3    94%
+modules/display.py          37     16    57%
+modules/interface.py       118     59    50%
+modules/person.py           38      7    82%
+modules/utils.py            28     19    32%
+--------------------------------------------
+TOTAL                      444    173    61%
